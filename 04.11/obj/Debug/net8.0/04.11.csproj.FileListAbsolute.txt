@@ -1,0 +1,14 @@
+D:\04.11\04.11\bin\Debug\net8.0\04.11.exe
+D:\04.11\04.11\bin\Debug\net8.0\04.11.deps.json
+D:\04.11\04.11\bin\Debug\net8.0\04.11.runtimeconfig.json
+D:\04.11\04.11\bin\Debug\net8.0\04.11.dll
+D:\04.11\04.11\bin\Debug\net8.0\04.11.pdb
+D:\04.11\04.11\obj\Debug\net8.0\04.11.GeneratedMSBuildEditorConfig.editorconfig
+D:\04.11\04.11\obj\Debug\net8.0\04.11.AssemblyInfoInputs.cache
+D:\04.11\04.11\obj\Debug\net8.0\04.11.AssemblyInfo.cs
+D:\04.11\04.11\obj\Debug\net8.0\04.11.csproj.CoreCompileInputs.cache
+D:\04.11\04.11\obj\Debug\net8.0\04.11.dll
+D:\04.11\04.11\obj\Debug\net8.0\refint\04.11.dll
+D:\04.11\04.11\obj\Debug\net8.0\04.11.pdb
+D:\04.11\04.11\obj\Debug\net8.0\04.11.genruntimeconfig.cache
+D:\04.11\04.11\obj\Debug\net8.0\ref\04.11.dll
